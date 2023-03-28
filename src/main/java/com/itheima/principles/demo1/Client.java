@@ -9,7 +9,7 @@ public class Client {
         //DefaultSkin skin=new DefaultSkin();
 
         ZhaihSkin skin =new ZhaihSkin();
-        
+
         input.setSkin(skin);
 //        显示对象
         input.display();
